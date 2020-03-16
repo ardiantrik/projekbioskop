@@ -1,0 +1,26 @@
+21 okt
+hal admin manajemen +
+proses simpan+
+hal admin tambah show +
+koneksi +
+
+22 okt
+hal book +
+proses book +
+hal awal +
+
+1 nov
+style +/-
+hal login +
+login+
+hal edit film+
+edit film+
+hapus film+
+logout+
+hal show admin +
+hal cust admin +
+hal edit show +
+edit show +
+hapus show +
+MEMBER(sak kabehe) -
+
